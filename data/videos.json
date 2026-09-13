@@ -1,22 +1,62 @@
 {
-  "updated": null,
+  "updated": "2026-09-13T03:35:58.394778+00:00",
   "channel": "https://www.youtube.com/@StellarScienceClub",
   "videos": [
-    {
-      "id": "0oowBJtrOik",
-      "title": "Electricity and Circuits: Part 1",
-      "url": "https://www.youtube.com/watch?v=0oowBJtrOik",
-      "thumbnail": "https://i.ytimg.com/vi/0oowBJtrOik/hqdefault.jpg",
-      "published": "",
-      "duration": ""
-    },
     {
       "id": "MvAck2ksozc",
       "title": "Introduction to Genetics and Cellular Function",
       "url": "https://www.youtube.com/watch?v=MvAck2ksozc",
       "thumbnail": "https://i.ytimg.com/vi/MvAck2ksozc/hqdefault.jpg",
       "published": "",
-      "duration": ""
+      "duration": "54:36"
+    },
+    {
+      "id": "GoVejxuaGMw",
+      "title": "The Ultimate Chemistry Experimental Design Session",
+      "url": "https://www.youtube.com/watch?v=GoVejxuaGMw",
+      "thumbnail": "https://i.ytimg.com/vi/GoVejxuaGMw/hqdefault.jpg",
+      "published": "",
+      "duration": "54:27"
+    },
+    {
+      "id": "0oowBJtrOik",
+      "title": "Electricity and Circuits: Part 1",
+      "url": "https://www.youtube.com/watch?v=0oowBJtrOik",
+      "thumbnail": "https://i.ytimg.com/vi/0oowBJtrOik/hqdefault.jpg",
+      "published": "",
+      "duration": "58:03"
+    },
+    {
+      "id": "lsvldpeYTNo",
+      "title": "Mathematical Methods Unit 1&2: Polynomial Basics",
+      "url": "https://www.youtube.com/watch?v=lsvldpeYTNo",
+      "thumbnail": "https://i.ytimg.com/vi/lsvldpeYTNo/hqdefault.jpg",
+      "published": "",
+      "duration": "28:13"
+    },
+    {
+      "id": "iRSbsyYZrBM",
+      "title": "Nervous System, Neurons, and Parts",
+      "url": "https://www.youtube.com/watch?v=iRSbsyYZrBM",
+      "thumbnail": "https://i.ytimg.com/vi/iRSbsyYZrBM/hqdefault.jpg",
+      "published": "",
+      "duration": "44:55"
+    },
+    {
+      "id": "-7rdTNVgm3U",
+      "title": "Life Cycle of a Cell",
+      "url": "https://www.youtube.com/watch?v=-7rdTNVgm3U",
+      "thumbnail": "https://i.ytimg.com/vi/-7rdTNVgm3U/hqdefault.jpg",
+      "published": "",
+      "duration": "41:58"
+    },
+    {
+      "id": "iiNu8xOfvwE",
+      "title": "Covalent Bonds, VSEPR, and Skeletal Formula",
+      "url": "https://www.youtube.com/watch?v=iiNu8xOfvwE",
+      "thumbnail": "https://i.ytimg.com/vi/iiNu8xOfvwE/hqdefault.jpg",
+      "published": "",
+      "duration": "38:10"
     }
   ]
 }
