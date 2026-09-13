@@ -1,0 +1,22 @@
+{
+  "updated": null,
+  "channel": "https://www.youtube.com/@StellarScienceClub",
+  "videos": [
+    {
+      "id": "0oowBJtrOik",
+      "title": "Electricity and Circuits: Part 1",
+      "url": "https://www.youtube.com/watch?v=0oowBJtrOik",
+      "thumbnail": "https://i.ytimg.com/vi/0oowBJtrOik/hqdefault.jpg",
+      "published": "",
+      "duration": ""
+    },
+    {
+      "id": "MvAck2ksozc",
+      "title": "Introduction to Genetics and Cellular Function",
+      "url": "https://www.youtube.com/watch?v=MvAck2ksozc",
+      "thumbnail": "https://i.ytimg.com/vi/MvAck2ksozc/hqdefault.jpg",
+      "published": "",
+      "duration": ""
+    }
+  ]
+}
