@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20T02:14:24.680788+00:00",
+  "updated": "2026-09-20T07:50:14.500137+00:00",
   "channel": "https://www.youtube.com/@StellarScienceClub",
   "videos": [
+    {
+      "id": "Kv-F7ww0Dy0",
+      "title": "How Electricity & Circuits ACTUALLY Work | Part 2",
+      "url": "https://www.youtube.com/watch?v=Kv-F7ww0Dy0",
+      "thumbnail": "https://i.ytimg.com/vi/Kv-F7ww0Dy0/hqdefault.jpg",
+      "published": "",
+      "duration": "50:11"
+    },
     {
       "id": "MvAck2ksozc",
       "title": "Introduction to Genetics and Cellular Function",
@@ -20,7 +28,7 @@
     },
     {
       "id": "0oowBJtrOik",
-      "title": "Electricity and Circuits: Part 1",
+      "title": "How to Solve Circuit Problems Like a Pro: Part 1",
       "url": "https://www.youtube.com/watch?v=0oowBJtrOik",
       "thumbnail": "https://i.ytimg.com/vi/0oowBJtrOik/hqdefault.jpg",
       "published": "",
